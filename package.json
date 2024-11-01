@@ -2,7 +2,6 @@
 	"name": "aio-plugins",
 	"version": "3.12.5",
 	"description": "aio-plugins is a collection of plugins for web development.",
-	"main": "dist/gsap.js",
 	"license": "Standard 'no charge' license",
 	"repository": {
 		"type": "git",
